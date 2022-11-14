@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JobList>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>3a92d31b-889a-4660-a4fc-04d28189bdff</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>3a92d31b-889a-4660-a4fc-04d28189bdff</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Default Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:01</LastTotalTime>
+    <StartTime>2022-11-14T12:14:01.7404653Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>False</IsStale>
+    <QualifiedName>::VireoDevSystem::Interactive::WebApp.gcomp</QualifiedName>
+    <HintEnvoy>::VireoDevSystem::Interactive::WebApp.gcomp</HintEnvoy>
+  </Job>
+</JobList>
