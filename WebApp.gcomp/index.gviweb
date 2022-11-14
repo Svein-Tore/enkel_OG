@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="C422D6665945AA4449D56C158E635351991B2DA66BC6426B29967D57EF746A7A064FA419ACFEFB528D2832E636F72FC743A8871656C3242E4257A5326727F50F" Timestamp="1D8F81FBCED0A99" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="B82149DE840428AB532F9825E39220DAD62882E6A54252ACE44F7D6A8EDF61DD174B22F126FB59429DABB464CA4E4669457CEB3EE30096D8979C45A83CCC7B05" Timestamp="1D8F82BC6E08525" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="9.3.0.49613" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="9.3.0.49613" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
@@ -210,13 +210,13 @@
 			<p.DefaultValue>False</p.DefaultValue>
 		</DataItem>
 		<DataItem AdaptToDiagramType="True" DataType="Boolean" Id="deb6e2d9a377416fa0b491708da3b284" Name="Bryter 1" xmlns="http://www.ni.com/MocCommon">
-			<p.DefaultValue>False</p.DefaultValue>
+			<p.DefaultValue>True</p.DefaultValue>
 		</DataItem>
 		<DataItem AdaptToDiagramType="True" DataType="Boolean" Id="43075d4725944faa9db753816b4f8e5b" Name="Bryter 2" xmlns="http://www.ni.com/MocCommon">
 			<p.DefaultValue>False</p.DefaultValue>
 		</DataItem>
 		<DataItem AdaptToDiagramType="True" DataType="Boolean" Id="87ff8e2274ba4217bda21cf451e04855" Name="Bryter 3" xmlns="http://www.ni.com/MocCommon">
-			<p.DefaultValue>False</p.DefaultValue>
+			<p.DefaultValue>True</p.DefaultValue>
 		</DataItem>
 		<DataItem AdaptToDiagramType="True" DataType="Boolean" Id="707508f78a24de1b67ff61811ab4608" Name="Bryter 4" xmlns="http://www.ni.com/MocCommon">
 			<p.DefaultValue>False</p.DefaultValue>
